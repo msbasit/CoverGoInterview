@@ -8,6 +8,7 @@ namespace CoverGo.PairProgramming.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            
         }
     }
 }
